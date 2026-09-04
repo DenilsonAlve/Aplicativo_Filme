@@ -8,7 +8,7 @@ Aplicativo do flutter relacionado ao jogo feito com base no filme: Homem-Aranha 
 Explicação:  
 https://github.com/DenilsonAlve/Aplicativo_Filme/wiki/Explica%C3%A7%C3%A3o-das-p%C3%A1ginas  
 
-Segunda Guia:  
+Segunda página:  
 https://github.com/DenilsonAlve/Aplicativo_Filme/wiki/segunda-p%C3%A1gina  
 
 Terceira Página:  
