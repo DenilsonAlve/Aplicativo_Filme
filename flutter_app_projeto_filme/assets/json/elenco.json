@@ -1,0 +1,135 @@
+[
+  {
+    "ator": "Shameik Moore",
+    "papel": "Miles Morales",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTUxMzM1Mzg2MV5BMl5BanBnXkFtZTgwMDUyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjA1MTA4OTM1OV5BMl5BanBnXkFtZTgwMjYyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Shameik_Moore"
+  },
+  {
+    "ator": "Jake Johnson",
+    "papel": "Peter B. Parker",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTY0OTI1NzA1M15BMl5BanBnXkFtZTgwNTUyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjE3MTA4OTM1OV5BMl5BanBnXkFtZTgwMzYyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Jake_Johnson"
+  },
+  {
+    "ator": "Hailee Steinfeld",
+    "papel": "Gwen Stacy",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMjA2NTI1Mzg3MV5BMl5BanBnXkFtZTgwMjUyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjI0MTA4OTM1OV5BMl5BanBnXkFtZTgwNDYyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Hailee_Steinfeld"
+  },
+  {
+    "ator": "Mahershala Ali",
+    "papel": "Uncle Aaron",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMjA1MTQ0OTU3OV5BMl5BanBnXkFtZTgwMzUyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjIxMTA4OTM1OV5BMl5BanBnXkFtZTgwNTYyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Mahershala_Ali"
+  },
+  {
+    "ator": "Brian Tyree Henry",
+    "papel": "Jefferson Davis",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BNzQ3MTEzNTA5OV5BMl5BanBnXkFtZTgwNDUyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjE0MTA4OTM1OV5BMl5BanBnXkFtZTgwMTYyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Brian_Tyree_Henry"
+  },
+  {
+    "ator": "Lily Tomlin",
+    "papel": "Tia May",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTQ4MDY5OTQzMV5BMl5BanBnXkFtZTgwNzUyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjExMTA4OTM1OV5BMl5BanBnXkFtZTgwNTEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Lily_Tomlin"
+  },
+  {
+    "ator": "Luna Lauren Velez",
+    "papel": "Rio Morales",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTU3MDY3OTQzMV5BMl5BanBnXkFtZTgwODEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjEyMTA4OTM1OV5BMl5BanBnXkFtZTgwMTEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Luna_Lauren_Velez"
+  },
+  {
+    "ator": "Nicolas Cage",
+    "papel": "Spider-Man Noir",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMjAwMDY3OTQzMV5BMl5BanBnXkFtZTgwNTEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjAyMTA4OTM1OV5BMl5BanBnXkFtZTgwM3EyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Nicolas_Cage"
+  },
+  {
+    "ator": "Kimiko Glenn",
+    "papel": "Peni Parker",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTU1MDY3OTQzMV5BMl5BanBnXkFtZTgwMTEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjEzMTA4OTM1OV5BMl5BanBnXkFtZTgwTDEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Kimiko_Glenn"
+  },
+  {
+    "ator": "Liev Schreiber",
+    "papel": "Wilson Fisk / The Kingpin",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTY1MDY3OTQzMV5BMl5BanBnXkFtZTgwMjEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjIzMTA4OTM1OV5BMl5BanBnXkFtZTgwUDEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Liev_Schreiber"
+  },
+  {
+    "ator": "Kathryn Hahn",
+    "papel": "Doc Ock",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTI1MDY3OTQzMV5BMl5BanBnXkFtZTgwMzEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjExMjE3OTQzMV5BMl5BanBnXkFtZTgwVDEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Kathryn_Hahn"
+  },
+  {
+    "ator": "Jorma Taccone",
+    "papel": "Green Goblin",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTExMDY3OTQzMV5BMl5BanBnXkFtZTgwNDEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjEyMjE3OTQzMV5BMl5BanBnXkFtZTgwXDEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Jorma_Taccone"
+  },
+  {
+    "ator": "Joaquín Cosío",
+    "papel": "Scorpion",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMjEzMDY3OTQzMV5BMl5BanBnXkFtZTgwNEEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjA0MjE3OTQzMV5BMl5BanBnXkFtZTgwNDEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Cos%C3%ADo"
+  },
+  {
+    "ator": "Marvin \"Krondon\" Jones III",
+    "papel": "Tombstone",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMjI1MDY3OTQzMV5BMl5BanBnXkFtZTgwTFEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjAxMjE3OTQzMV5BMl5BanBnXkFtZTgwSDEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Krondon"
+  },
+  {
+    "ator": "Chris Pine",
+    "papel": "Peter Parker / Spider-Man",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMjIxMDY3OTQzMV5BMl5BanBnXkFtZTgwUFEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjE0MjE3OTQzMV5BMl5BanBnXkFtZTgwUDEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Chris_Pine"
+  },
+  {
+    "ator": "Zoë Kravitz",
+    "papel": "Mary Jane",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTM1MDY3OTQzMV5BMl5BanBnXkFtZTgwVFEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjIxMjE3OTQzMV5BMl5BanBnXkFtZTgwODUyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Zo%C3%AB_Kravitz"
+  },
+  {
+    "ator": "Lake Bell",
+    "papel": "Vanessa Fisk",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTI0MDY3OTQzMV5BMl5BanBnXkFtZTgwWFEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjEzMjE3OTQzMV5BMl5BanBnXkFtZTgwMDUyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Lake_Bell"
+  },
+  {
+    "ator": "Stan Lee",
+    "papel": "Stan Lee",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTA0MDY3OTQzMV5BMl5BanBnXkFtZTgwXFEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjA1MjE3OTQzMV5BMl5BanBnXkFtZTgwNDUyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Stan_Lee"
+  },
+  {
+    "ator": "Oscar Isaac",
+    "papel": "Spider-Man 2099",
+    "imagem_ator": "https://m.media-amazon.com/images/M/MV5BMTQ0MDY3OTQzMV5BMl5BanBnXkFtZTgwYFEyMDgxNzE@._V1_.jpg",
+    "imagem_personagem": "https://m.media-amazon.com/images/M/MV5BMjExMjE3OTQzMV5BMl5BanBnXkFtZTgwODEyMDgxNzE@._V1_.jpg",
+    "wiki": "https://pt.wikipedia.org/wiki/Oscar_Isaac"
+  }
+]
